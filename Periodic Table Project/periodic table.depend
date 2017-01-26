@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1479740229 source:d:\c++ programs\periodic\periodic table\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481029512 source:c:\users\kapil\documents\periodic table\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1482073994 source:c:\users\kapil\desktop\periodic table\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
