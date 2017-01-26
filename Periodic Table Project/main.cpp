@@ -9,7 +9,7 @@ string atomicno;
 
 void output()
 {
-    cout<<"\nAtomic number : "<<atomicno<<"\nSymbol : "<<symbol<<"\nName : "<<name<<"\n\n\n";
+    cout<<"\nAtomic number : "<<atomicno<<"\nSymbol : "<<symbol<<"\nName : "<<name<<"\n";
 }
 
 void atomic()
